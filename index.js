@@ -7,3 +7,7 @@ console.log("Hola mundo 3")
 function suma(a, b){
     return a + b
 }
+
+function multiplicar(a, b){
+    return a * b
+}
